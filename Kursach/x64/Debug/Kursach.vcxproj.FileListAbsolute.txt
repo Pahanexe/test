@@ -1,0 +1,3 @@
+D:\codes\Kursach\Kursach\x64\Debug\Kursach.vcxproj.AssemblyReference.cache
+D:\codes\Kursach\Kursach\x64\Debug\Kursach.MyForm.resources
+D:\codes\Kursach\Kursach\x64\Debug\Kursach.vcxproj.GenerateResource.cache
